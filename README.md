@@ -1,2 +1,2 @@
 # beauty_shop
-Code Institute walkthrough. Original name is Beauty Ado.
+Code Institute walkthrough. The original name is Beauty Ado.
